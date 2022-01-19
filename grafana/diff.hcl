@@ -38,7 +38,7 @@ step "kube-init" {
     "grafana",
   ]
 
-  sha     = "525f30eaca37b895102a982a872ea2a9e5f9e36607da646a50812d4763d0a4ae"
+  sha     = "434c2c901a90202733fa3be28a13746ec9a34588df5cc37c1766c11ead1599b5"
   retries = 0
 }
 
