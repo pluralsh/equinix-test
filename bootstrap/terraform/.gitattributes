@@ -1,0 +1,4 @@
+/kube_config_cluster.yaml filter=plural-crypt diff=plural-crypt
+/orig_kube_config_cluster.yaml filter=plural-crypt diff=plural-crypt
+/metal-key filter=plural-crypt diff=plural-crypt
+/metal-key.pub filter=plural-crypt diff=plural-crypt

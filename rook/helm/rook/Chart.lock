@@ -1,0 +1,6 @@
+dependencies:
+- name: rook
+  repository: cm://app.plural.sh/cm/rook
+  version: 0.1.7
+digest: sha256:9265b1a48a45b0713dfbbd84cc0cff5783648a217b5c27c7db7bdae9074575a0
+generated: "2022-01-19T16:09:42.528640109+01:00"
